@@ -1,2 +1,8 @@
 # Ignore compiled binary files
 /main
+
+# Ignore zipped binary files
+/function.zip
+
+# Ignore output files after lambda invoke
+/output.txt
